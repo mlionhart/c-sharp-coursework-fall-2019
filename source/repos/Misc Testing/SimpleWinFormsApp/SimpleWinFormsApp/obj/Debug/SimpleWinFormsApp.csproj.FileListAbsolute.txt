@@ -1,0 +1,6 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\SimpleWinFormsApp.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\SimpleWinFormsApp.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\SimpleWinFormsApp\SimpleWinFormsApp\bin\Debug\SimpleWinFormsApp.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\SimpleWinFormsApp.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\SimpleWinFormsApp.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\SimpleWinFormsApp\SimpleWinFormsApp\obj\Debug\SimpleWinFormsApp.pdb

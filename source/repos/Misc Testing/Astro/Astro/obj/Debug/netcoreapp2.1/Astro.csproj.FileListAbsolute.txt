@@ -1,0 +1,11 @@
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\bin\Debug\netcoreapp2.1\Astro.deps.json
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\bin\Debug\netcoreapp2.1\Astro.runtimeconfig.json
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\bin\Debug\netcoreapp2.1\Astro.runtimeconfig.dev.json
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\bin\Debug\netcoreapp2.1\Astro.dll
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\bin\Debug\netcoreapp2.1\Astro.pdb
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\obj\Debug\netcoreapp2.1\Astro.csprojAssemblyReference.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\obj\Debug\netcoreapp2.1\Astro.csproj.CoreCompileInputs.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\obj\Debug\netcoreapp2.1\Astro.AssemblyInfoInputs.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\obj\Debug\netcoreapp2.1\Astro.AssemblyInfo.cs
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\obj\Debug\netcoreapp2.1\Astro.dll
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\Astro\Astro\obj\Debug\netcoreapp2.1\Astro.pdb

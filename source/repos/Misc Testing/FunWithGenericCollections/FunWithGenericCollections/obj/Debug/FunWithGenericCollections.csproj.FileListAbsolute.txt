@@ -1,0 +1,6 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Shapes\Shapes\obj\Debug\Shapes.pdb

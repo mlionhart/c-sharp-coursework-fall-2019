@@ -1,0 +1,6 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\CustomInterface\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\CustomInterface\CustomInterface\obj\Debug\CustomInterface.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\CustomInterface\CustomInterface\obj\Debug\CustomInterface.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.pdb

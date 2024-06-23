@@ -1,0 +1,7 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

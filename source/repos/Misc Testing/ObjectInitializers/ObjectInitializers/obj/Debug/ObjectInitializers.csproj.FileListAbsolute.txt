@@ -1,0 +1,6 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

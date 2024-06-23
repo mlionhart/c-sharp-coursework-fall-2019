@@ -1,0 +1,7 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb

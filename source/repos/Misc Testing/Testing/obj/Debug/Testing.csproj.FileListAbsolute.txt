@@ -1,0 +1,13 @@
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Testing\bin\Debug\Testing.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Testing\bin\Debug\Testing.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Testing\bin\Debug\Testing.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Testing\obj\Debug\Testing.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Testing\obj\Debug\Testing.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Testing\bin\Debug\Testing.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Testing\obj\Debug\Testing.exe
+C:\Users\Mike\OneDrive - Clark College\CTEC 135\source\repos\Misc Testing\Testing\obj\Debug\Testing.pdb

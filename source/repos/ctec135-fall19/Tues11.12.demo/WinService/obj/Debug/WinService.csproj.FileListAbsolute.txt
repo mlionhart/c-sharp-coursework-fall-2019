@@ -1,0 +1,9 @@
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\bin\Debug\WinService.exe.config
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\bin\Debug\WinService.exe
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\bin\Debug\WinService.pdb
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\obj\Debug\WinService.csprojAssemblyReference.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\obj\Debug\WinService.WinService.resources
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\obj\Debug\WinService.csproj.GenerateResource.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\obj\Debug\WinService.exe
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\obj\Debug\WinService.pdb
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\ctec135-fall19\Tues11.12.demo\WinService\obj\Debug\WinService.ProjectInstaller.resources

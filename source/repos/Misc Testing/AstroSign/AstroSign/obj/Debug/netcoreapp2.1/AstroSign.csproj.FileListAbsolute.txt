@@ -1,0 +1,33 @@
+C:\Users\Mike\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.deps.json
+C:\Users\Mike\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.runtimeconfig.json
+C:\Users\Mike\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.dll
+C:\Users\Mike\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.pdb
+C:\Users\Mike\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.AssemblyInfo.cs
+C:\Users\Mike\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.dll
+C:\Users\Mike\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.pdb
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.deps.json
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.runtimeconfig.json
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.runtimeconfig.dev.json
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.dll
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.pdb
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.csprojAssemblyReference.cache
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.csproj.CoreCompileInputs.cache
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.AssemblyInfoInputs.cache
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.AssemblyInfo.cs
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.dll
+C:\Users\m.hart\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.pdb
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.deps.json
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.runtimeconfig.json
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.runtimeconfig.dev.json
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.dll
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\bin\Debug\netcoreapp2.1\AstroSign.pdb
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.csprojAssemblyReference.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.csproj.CoreCompileInputs.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.AssemblyInfoInputs.cache
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.AssemblyInfo.cs
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.dll
+C:\Users\miker\OneDrive - Clark College\CTEC 135\source\repos\AstroSign\AstroSign\obj\Debug\netcoreapp2.1\AstroSign.pdb
